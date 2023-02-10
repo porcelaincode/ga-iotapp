@@ -11,3 +11,8 @@ html,
 body {
   font-family: 'Manrope', sans-serif;
 }
+
+.ReactChart .ReactChart {
+  height: 300px !important;
+  width: 980px !important;
+}
